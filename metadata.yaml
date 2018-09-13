@@ -1,0 +1,24 @@
+_repo: The-Campaign-in-Russian-Poland_51411
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Standing, Percy Cross
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '46399'
+    url: http://www.gutenberg.org/2009/agents/46399
+description: ''
+gutenberg_issued: '2016-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51411'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Eastern Front'
+- !lcc 'D501'
+- GITenberg
+title: The Campaign in Russian Poland
+url: http://www.gutenberg.org/ebooks/51411
